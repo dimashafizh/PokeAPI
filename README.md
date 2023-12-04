@@ -13,7 +13,7 @@
    ```
 2. Buka file `index.html` pada peramban web Anda atau gunakan server lokal untuk melihat aplikasi.
    ```bash
-   cd repo
+   cd repository
    ```
 
 ## Teknologi yang Digunakan
